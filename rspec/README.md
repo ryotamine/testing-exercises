@@ -1,0 +1,1 @@
+# RSpec Testing Exercise by Ryota Mine
